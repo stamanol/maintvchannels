@@ -44,9 +44,11 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="AE TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 
+#EXTINF:-1 group-title="" tvg-name="ACTION 24" tvg-logo="https://commons.wikimedia.org/wiki/File:Action24-logo-small.png",ACTION 24
+https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="digea.bluesky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
-https://stream-08.dc3.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW2MefMoxIP6i6Lp1p4VAY6DahVaNUVEkQrloK6YPIzQE)/dm/3/x7z731p/s/live-3.m3u8
+https://stream-07.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW8mcu5GE_1o1dATyB2kWGn53BlnC5P3zF-7Qub_HwwjZ)/dm/3/x7z731p/s/live-3.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="dives.kontra.gr" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
