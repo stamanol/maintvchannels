@@ -44,7 +44,7 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="AE TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png",EPSILON TV
 
-#EXTINF:-1 group-title="" tvg-name="ACTION 24" tvg-logo="https://commons.wikimedia.org/wiki/File:Action24-logo-small.png",ACTION 24
+#EXTINF:-1 group-title="" tvg-name="ACTION 24" tvg-logo="Action24-logo-small.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="digea.bluesky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
