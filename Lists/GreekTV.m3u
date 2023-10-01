@@ -24,7 +24,7 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/c
 #EXTINF:-1 tvg-chno="12" tvg-id="AlphaGreece(src01).gr" tvg-name="ALPHA HD" tvg-logo="https://i.imgur.com/eqizvJv.png" group-title="(no group)" tvg-shift="+2",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/jw7y4zj7/720/chunklist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ANT1Greece(src01).gr" tvg-name="ANT1 HD" tvg-logo="https://i.imgur.com/sZPPi03.png" group-title="(no group)" tvg-shift="+2",ANT1 HD
-https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_4.m3u8
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Star(src01).gr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/H6lHMIs.png" group-title="(no group)" tvg-shift="+2",STAR TV HD
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="MacedoniaTV(src01).gr" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/MsSUG3R.png" group-title="(no group)" tvg-shift="+2",MAK TV
