@@ -52,8 +52,8 @@ https://til.pp.ua:3391/live/channeln9live.m3u8
 #EXTINF:-1 group-title="" tvg-name="ACTION 24" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=141133217&t=1670486924296",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
 
-#EXTINF:-1 group-title="" tvg-name="digea.bluesky.gr" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
+#EXTINF:-1 group-title="" tvg-name="BLUE SKY" tvg-logo="http://greektv.pbworks.com/f/BLUE_SKY.png",BLUE SKY 
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/chunks.m3u8
 
-#EXTINF:-1 group-title="" tvg-name="dives.kontra.gr" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png",KONTRA TV
+#EXTINF:-1 group-title="" tvg-name="KONTRA TV" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
