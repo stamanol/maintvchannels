@@ -19,10 +19,10 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 #EXTINF:-1 group-title="" tvg-name="ERT NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/ERTworld2020.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/ert_news_main/main_720/chunks_dvr.m3u8
 
-#EXTINF:-1 group-title="" tvg-name="ERT SPORTS1 HDr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS1 HD 
+#EXTINF:-1 group-title="" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS1 HD 
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
 
-#EXTINF:-1 group-title="" tvg-name="ERT SPORTS2 HDr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS2 HD 
+#EXTINF:-1 group-title="" tvg-name="ERT SPORTS2 HD" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS2 HD 
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="ALPHA HD" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
