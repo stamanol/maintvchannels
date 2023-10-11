@@ -30,7 +30,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="MacedoniaTV(src01).gr" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/MsSUG3R.png" group-title="Greek TV" tvg-shift="0",MAK TV
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_1.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="ONEChannel(src01).gr" tvg-name="ONE TV HD" tvg-logo="https://i.imgur.com/dz27p9X.png" group-title="Greek TV" tvg-shift="0",ONE TV HD
-https://stream.castr.com/651c350dde69d4abe72ff6ed/live_f734bfb0620211eeb199fdf6fe0df505/tracks-v1a1/rewind-3600.m3u8
+https://til.pp.ua:3391/live/channeln9live.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="Action24(src01).gr" tvg-name="ACTION 24" tvg-logo="https://i.imgur.com/laKYzk7.png" group-title="Greek TV" tvg-shift="0",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="Greek TV" tvg-shift="0",BLUE SKY
