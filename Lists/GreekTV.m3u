@@ -33,7 +33,7 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Action24(src01).gr" tvg-name="ACTION 24" tvg-logo="https://i.imgur.com/laKYzk7.png" group-title="Greek TV",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="" group-title="Greek TV",ALERT TV
+#EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="https://i.imgur.com/MjBW64Q.png" group-title="Greek TV",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/chunklist_w948444150.m3u8
 #EXTINF:-1 tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="Greek TV",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/chunks.m3u8
