@@ -9,7 +9,7 @@ https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/dash/ERT2-audio_104621_und
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="Greek TV",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS2 HD" tvg-logo="https://i.imgur.com/9NZavkn.png" group-title="Greek TV",ERT SPORTS2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="Greek TV",EURONEWS
 https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/dash/EURONEWSUK-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="Greek TV",ERT NEWS
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_und=104400-video=5000000.m3u8
