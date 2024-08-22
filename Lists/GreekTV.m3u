@@ -36,7 +36,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 #EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="https://i.imgur.com/MjBW64Q.png" group-title="Greek TV",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/chunklist_w948444150.m3u8
 #EXTINF:-1 tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="Greek TV",BLUE SKY
-https://cdn5.smart-tv-data.com/bluesky/bluesky-live/audio_und=32840462-video.m3u8
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/audio-video.m3u8?nimblesessionid=32840462
 #EXTINF:-1 tvg-id="KontraChannel(src01).gr" tvg-name="KONTRA TV" tvg-logo="https://i.imgur.com/yE0c7bb.png" group-title="Greek TV",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://i.imgur.com/7F1h2Bl.png" group-title="Greek TV",CHANNEL 9
