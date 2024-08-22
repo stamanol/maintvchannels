@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nerxzmfwjqkvyzpe"
 #EXTINF:-1 tvg-id="Vouli(src01).gr" tvg-name="BOULH TV" tvg-logo="https://i.imgur.com/CPSNKGf.png" group-title="Greek TV",BOULH TV
-https://streamer-cache.grnet.gr/parliament/hls/webtv_1280_960x540/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="Greek TV",ERT 1
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-82768382901171.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ2(src01).gr" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/BE9oOau.png" group-title="Greek TV",ERT 2
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/dash/ERT2-audio_104621_und=104400-82768388061884.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="Greek TV",ERT 3
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/dash/ERT3-audio_104621_und=104400-82768394512687.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="Greek TV",ERT WORLD
-https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=2000000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="Greek TV",ERT NEWS
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=2000000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="Greek TV",ERT SPORTS1 HD
-https://ertflix.s.llnwi.net/ertlive/ertsports1/default/ERTSports1-audio_104621_und=104400-video=2000000.m3u8
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS2 HD" tvg-logo="https://i.imgur.com/9NZavkn.png" group-title="Greek TV",ERT SPORTS2 HD
-https://ertflix.s.llnwi.net/ertlive/ertsports2/default/ERTSports2-audio_104621_und=104400-video=2000000.m3u8
+https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/dash/EURONEWSUK-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="Greek TV",ERT NEWS
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="Greek TV",EURONEWS
+https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/dash/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="Greek TV",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/GijiyBE.png" group-title="Greek TV",OPEN BEYOND
@@ -36,7 +36,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/
 #EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="https://i.imgur.com/MjBW64Q.png" group-title="Greek TV",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/chunklist_w948444150.m3u8
 #EXTINF:-1 tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="Greek TV",BLUE SKY
-https://cdn5.smart-tv-data.com/bluesky/bluesky-live/video.m3u8
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/audio-video.m3u8
 #EXTINF:-1 tvg-id="KontraChannel(src01).gr" tvg-name="KONTRA TV" tvg-logo="https://i.imgur.com/yE0c7bb.png" group-title="Greek TV",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://i.imgur.com/7F1h2Bl.png" group-title="Greek TV",CHANNEL 9
