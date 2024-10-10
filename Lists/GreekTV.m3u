@@ -4,9 +4,9 @@ https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=10
 #EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="Greek TV",ERT 1
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ2(src01).gr" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/BE9oOau.png" group-title="Greek TV",ERT 2
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24724c/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="Greek TV",ERT 3
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="Greek TV",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="Greek TV",EURONEWS
