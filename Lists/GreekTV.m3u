@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nerxzmfwjqkvyzpe"
-#EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="Vouli(src01).gr" tvg-name="BOULH TV" tvg-logo="https://i.imgur.com/CPSNKGf.png" group-title="Greek TV",BOULH TV
 https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="Greek TV",ERT 1
