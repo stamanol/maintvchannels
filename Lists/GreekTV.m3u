@@ -28,7 +28,7 @@ http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/ant
 #EXTINF:-1 tvg-id="Star(src01).gr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/wKasHtA.png" group-title="Greek TV",STAR TV HD
 https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-id="MacedoniaTV(src01).gr" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/MsSUG3R.png" group-title="Greek TV",MAK TV
-https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_1.m3u8
+http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-id="ONEChannel(src01).gr" tvg-name="ONE TV HD" tvg-logo="https://i.imgur.com/dz27p9X.png" group-title="Greek TV",ONE TV HD
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="Action24(src01).gr" tvg-name="ACTION 24" tvg-logo="https://i.imgur.com/laKYzk7.png" group-title="Greek TV",ACTION 24
