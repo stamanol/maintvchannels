@@ -1,43 +1,43 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nerxzmfwjqkvyzpe"
-#EXTINF:-1 tvg-id="ΒΟΥΛΗ(src01).gr" tvg-name="BOULH TV" tvg-logo="https://i.imgur.com/CPSNKGf.png" group-title="General" tvg-shift="-9",BOULH TV
+#EXTINF:-1 tvg-id="ΒΟΥΛΗ(src01).gr" tvg-name="BOULH TV" tvg-logo="https://i.imgur.com/CPSNKGf.png" group-title="General",BOULH TV
 https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="General" tvg-shift="-9",ERT 1
+#EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="General",ERT 1
 https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ΕΡΤ2(src01).gr" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/BE9oOau.png" group-title="General" tvg-shift="-9",ERT 2
+#EXTINF:-1 tvg-id="ΕΡΤ2(src01).gr" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/BE9oOau.png" group-title="General",ERT 2
 https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="General" tvg-shift="-9",ERT 3
+#EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="General",ERT 3
 https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="General" tvg-shift="-9",ERT WORLD
+#EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="General",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="euronews.uk" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="General" tvg-shift="-9",EURONEWS
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="General",EURONEWS
 https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/dash/EURONEWSUK-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="General" tvg-shift="-9",ERT NEWS
+#EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="General",ERT NEWS
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General" tvg-shift="-9",ERT SPORTS1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General",ERT SPORTS1 HD
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/dash/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="General" tvg-shift="-9",SKAI HD
+#EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="General",SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-#EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/GijiyBE.png" group-title="General" tvg-shift="-9",OPEN BEYOND
+#EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/GijiyBE.png" group-title="General",OPEN BEYOND
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/sblzdyjg/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="MEGA(src01).gr" tvg-name="MEGA HD" tvg-logo="https://i.imgur.com/RFJ1Pmb.png" group-title="General" tvg-shift="-9",MEGA HD
+#EXTINF:-1 tvg-id="MEGA(src01).gr" tvg-name="MEGA HD" tvg-logo="https://i.imgur.com/RFJ1Pmb.png" group-title="General",MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="AlphaGreece(src01).gr" tvg-name="ALPHA HD" tvg-logo="https://i.imgur.com/eqizvJv.png" group-title="General" tvg-shift="-9",ALPHA HD
+#EXTINF:-1 tvg-id="AlphaGreece(src01).gr" tvg-name="ALPHA HD" tvg-logo="https://i.imgur.com/eqizvJv.png" group-title="General",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/vjlhjjbq/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="ANT1Greece(src01).gr" tvg-name="ANT1 HD" tvg-logo="https://i.imgur.com/sZPPi03.png" group-title="General" tvg-shift="-9",ANT1 HD
+#EXTINF:-1 tvg-id="ANT1Greece(src01).gr" tvg-name="ANT1 HD" tvg-logo="https://i.imgur.com/sZPPi03.png" group-title="General",ANT1 HD
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
-#EXTINF:-1 tvg-id="Star(src01).gr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/wKasHtA.png" group-title="General" tvg-shift="-9",STAR TV HD
+#EXTINF:-1 tvg-id="Star(src01).gr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/wKasHtA.png" group-title="General",STAR TV HD
 https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
-#EXTINF:-1 tvg-id="MacedoniaTV(src01).gr" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/MsSUG3R.png" group-title="General" tvg-shift="-9",MAK TV
+#EXTINF:-1 tvg-id="MacedoniaTV(src01).gr" tvg-name="MAK TV" tvg-logo="https://i.imgur.com/MsSUG3R.png" group-title="General",MAK TV
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 tvg-id="ONEChannel(src01).gr" tvg-name="ONE TV HD" tvg-logo="https://i.imgur.com/dz27p9X.png" group-title="General" tvg-shift="-9",ONE TV HD
+#EXTINF:-1 tvg-id="ONEChannel(src01).gr" tvg-name="ONE TV HD" tvg-logo="https://i.imgur.com/dz27p9X.png" group-title="General",ONE TV HD
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Action24(src01).gr" tvg-name="ACTION 24" tvg-logo="https://i.imgur.com/laKYzk7.png" group-title="General" tvg-shift="-9",ACTION 24
+#EXTINF:-1 tvg-id="Action24(src01).gr" tvg-name="ACTION 24" tvg-logo="https://i.imgur.com/laKYzk7.png" group-title="General",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="https://i.imgur.com/MjBW64Q.png" group-title="General" tvg-shift="-9",ALERT TV
+#EXTINF:-1 tvg-id="ALERT(src01).gr" tvg-name="ALERT TV" tvg-logo="https://i.imgur.com/MjBW64Q.png" group-title="General",ALERT TV
 https://itv.streams.ovh/ALEERT/ALEERT/chunklist_w948444150.m3u8
-#EXTINF:-1 tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="General" tvg-shift="-9",BLUE SKY
+#EXTINF:-1 tvg-id="BlueSky(src01).gr" tvg-name="BLUE SKY" tvg-logo="https://i.imgur.com/IfNUO5B.png" group-title="General",BLUE SKY
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 tvg-id="KontraChannel(src01).gr" tvg-name="KONTRA TV" tvg-logo="https://i.imgur.com/yE0c7bb.png" group-title="General" tvg-shift="-9",KONTRA TV
+#EXTINF:-1 tvg-id="KontraChannel(src01).gr" tvg-name="KONTRA TV" tvg-logo="https://i.imgur.com/yE0c7bb.png" group-title="General",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://i.imgur.com/7F1h2Bl.png" group-title="General" tvg-shift="+1",CHANNEL 9
 https://til.pp.ua:3391/live/channeln9live.m3u8
