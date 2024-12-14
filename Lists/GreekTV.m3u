@@ -16,7 +16,7 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_un
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General",ERT SPORTS1 HD
 https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/dash/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="General",SKAI HD
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/GijiyBE.png" group-title="General",OPEN BEYOND
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/sblzdyjg/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="MEGA(src01).gr" tvg-name="MEGA HD" tvg-logo="https://i.imgur.com/RFJ1Pmb.png" group-title="General",MEGA HD
