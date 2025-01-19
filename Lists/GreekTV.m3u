@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/5g28nerxzmfwjqkvyzpe"
 #EXTINF:-1 tvg-id="ΒΟΥΛΗ(src01).gr" tvg-name="BOULH TV" tvg-logo="https://i.imgur.com/CPSNKGf.png" group-title="General",BOULH TV
-https://ertflix.s.llnwi.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/vouli/default/dash/VOULI-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ1(src01).gr" tvg-name="ERT 1" tvg-logo="https://i.imgur.com/AIxKyvM.png" group-title="General",ERT 1
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/dash/ERT-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ2(src01).gr" tvg-name="ERT 2" tvg-logo="https://i.imgur.com/BE9oOau.png" group-title="General",ERT 2
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/dash/ERT2-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="General",ERT 3
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/dash/ERT3-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="General",ERT WORLD
-https://ertflix.s.llnwi.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ertworld/default/dash/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="euronews.uk" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="General",EURONEWS
-https://ertflix.s.llnwi.net/ertlive/euronewsuk/default/dash/EURONEWSUK-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/euronewsuk/default/dash/EURONEWSUK-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="General",ERT NEWS
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ertnews/default/dash/ERTNews-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General",ERT SPORTS1 HD
-https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/dash/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/dash/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="General",SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/GijiyBE.png" group-title="General",OPEN BEYOND
