@@ -39,5 +39,7 @@ https://itv.streams.ovh/ALEERT/ALEERT/chunklist_w948444150.m3u8
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel(src01).gr" tvg-name="KONTRA TV" tvg-logo="https://i.imgur.com/yE0c7bb.png" group-title="General",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAD WORLD" tvg-logo="https://i.imgur.com/SdwpQtI.png" group-title="General",MAD WORLD
+https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 9" tvg-logo="https://i.imgur.com/7F1h2Bl.png" group-title="General" tvg-shift="+1",CHANNEL 9
 https://til.pp.ua:3391/live/channeln9live.m3u8
