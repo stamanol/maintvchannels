@@ -14,7 +14,7 @@ https://ertflix.akamaized.net/ertlive/euronewsuk/default/EURONEWSUK-audio_104621
 #EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="General",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="DW(English).de" tvg-name="DW" tvg-logo="https://i.imgur.com/GXu1P48.png" group-title="General",DW
-https://ertflix.akamaized.net/ertlive/dw/default/DW-audio_104621_und=105005-video=5000000.m3u8
+https://ertflix.akamaized.net/ertlive/dw/default/DW-audio_104621_eng_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General",ERT SPORTS1 HD
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="SKAI HD" tvg-logo="https://i.imgur.com/4njkD9S.png" group-title="General",SKAI HD
