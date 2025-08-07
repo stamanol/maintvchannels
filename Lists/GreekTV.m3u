@@ -22,7 +22,7 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/chunks.m3u8
 #EXTINF:-1 tvg-id="MEGA(src01).gr" tvg-name="MEGA HD" tvg-logo="https://i.imgur.com/RFJ1Pmb.png" group-title="General",MEGA HD
 https://streamcdnh13-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="AlphaGreece(src01).gr" tvg-name="ALPHA HD" tvg-logo="https://i.imgur.com/eqizvJv.png" group-title="General",ALPHA HD
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/vjlhjjbq/720/chunklist.m3u8
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ANT1Greece(src01).gr" tvg-name="ANT1 HD" tvg-logo="https://i.imgur.com/sZPPi03.png" group-title="General",ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="Star(src01).gr" tvg-name="STAR TV HD" tvg-logo="https://i.imgur.com/wKasHtA.png" group-title="General",STAR TV HD
