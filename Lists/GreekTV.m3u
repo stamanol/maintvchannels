@@ -7,11 +7,11 @@ https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/ERT-audio_104621_und=104
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ3(src01).gr" tvg-name="ERT 3" tvg-logo="https://i.imgur.com/j9FeiD7.png" group-title="General",ERT 3
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/mRTRraY.png" group-title="General",ERT WORLD
+#EXTINF:-1 tvg-id="ERTWorld(src01).gr" tvg-name="ERT WORLD" tvg-logo="https://i.imgur.com/3dw7ZgO.png" group-title="General",ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-id="RIKsat(src01).cy" tvg-name="RIK SAT" tvg-logo="https://i.imgur.com/0GBdFGA.png" group-title="General",RIK SAT
+#EXTINF:-1 tvg-id="RIKsat(src01).cy" tvg-name="RIK SAT" tvg-logo="https://i.imgur.com/fF1z8fh.png" group-title="General",RIK SAT
 https://ertflix.ascdn.broadpeak.io/ertlive/rik/default/RIK-audio_104621_gre=104400-video=5000000.m3u8
-#EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/C8ZJPIV.png" group-title="General",ERT NEWS
+#EXTINF:-1 tvg-id="ΕΡΤNEWS(src01).gr" tvg-name="ERT NEWS" tvg-logo="https://i.imgur.com/KNZlID0.png" group-title="General",ERT NEWS
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ERT SPORTS1 HD" tvg-logo="https://i.imgur.com/xWWHRN2.png" group-title="General",ERT SPORTS1 HD
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/ERTSports1-audio_104621_und=104400-video=5000000.m3u8
